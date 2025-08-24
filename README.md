@@ -4,14 +4,14 @@
 ##📝 **Project Overview**
 This project is an interactive E-Commerce Sales Dashboard built using Power BI. It helps track and analyze key business metrics, offering actionable insights for decision-making.
 
-##🔑** Key Features**
+##🔑**Key Features**
 - Sales Overview: Total Sales, Profit, Quantity Sold, and Average Order Value
 - Category Analysis: Performance by Category and Sub-category
 - Trend Analysis: Monthly & yearly sales trends for better forecasting
 - Regional Insights: State & region-wise contribution to sales
 - Dynamic Filters: Interactive slicers for date range, category, and region
   
-##🎯** Purpose**
+##🎯**Purpose**
 The purpose of this dashboard is to provide a comprehensive, interactive view of e-commerce business performance. It enables stakeholders to:
 - Monitor Key Metrics: Track sales, profit, and order trends at a glance
 - Identify Growth Opportunities: Analyze category, sub-category, and regional performance
