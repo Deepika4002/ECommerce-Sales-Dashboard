@@ -27,5 +27,5 @@ The purpose of this dashboard is to provide a comprehensive, interactive view of
 - User-Friendly Design: Clean layout with intuitive navigation for quick decision-making
 - Dynamic Visuals: Charts, KPIs, and maps for better data storytelling
 
-**🖼️ Dashboard Preview**
+🖼️ **Dashboard Preview**
 https://github.com/Deepika4002/ECommerce-Sales-Dashboard/blob/main/Screenshot%20of%20Dashboard.jpg
